@@ -43,8 +43,8 @@ layers:
   - C
   - V
   - B
-  - $$mdi:pan-up$$
-  - $$mdi:pan-down$$
+  - PgUp
+  - PgDn
   - N
   - M
   - {t: ',', s: <}
