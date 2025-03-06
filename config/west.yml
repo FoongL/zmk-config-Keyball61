@@ -4,8 +4,6 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: kumamuk-git
       url-base: https://github.com/kumamuk-git
-    - name: whoop-t #new entry
-      url-base: https://github.com/whoop-t #new entry
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -14,8 +12,6 @@ manifest:
     - name: zmk-pmw3610-driver
       remote: kumamuk-git
       revision: main
-    - name: nice-adventure-time #new entry
-      remote: whoop-t #new entry
-      revision: main #new entry
+
   self:
     path: config
